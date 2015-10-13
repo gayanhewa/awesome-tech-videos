@@ -23,7 +23,7 @@ really know what they are doing :)
 
 #### PHP
 
-- [Introduction to Laravel 5 Framework] (https://laracasts.com/series/laravel-5-fundamentals) By Jeffrey Way
+- [Introduction to Laravel 5 Framework](https://laracasts.com/series/laravel-5-fundamentals) By Jeffrey Way
 
 #### JavaScript
 
