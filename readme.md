@@ -21,6 +21,10 @@ really know what they are doing :)
 
 ### Programming Languages
 
+#### PHP
+
+- [Introduction to Laravel 5 Framework](https://laracasts.com/series/laravel-5-fundamentals) By Jeffrey Way
+
 #### JavaScript
 
 - [ECMAScript Harmony: Rise of the Compilers](https://www.youtube.com/watch?v=PlmsweSNhTw&index) By Brendan Eich
